@@ -33,7 +33,7 @@
     "@types/mongoose": "^5.5.32",
     "bcrypt": "^4.0.1",
     "bcryptjs": "^2.4.3",
-    "convict": "^5.2.0",
+    "convict": "^6.2.3",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-validator": "^6.3.0",
